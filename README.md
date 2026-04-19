@@ -5,11 +5,11 @@
                         I am very interested in building a system that integrates LLMs 
                         to create an AI Agent application.
                         ──────────────────────────────────────────────────────────────
-                        Languages:       Java · TypeScript
+                        Languages:       Java, TypeScript
                         Frameworks:      Spring Framework, NestJs, ReactJs/NextJs
-                        Databases:       PostgreSQL · Redis · MongoDB · MySQL
+                        Databases:       PostgreSQL, Redis, MongoDB, MySQL
                         Search Engine:   Elasticsearch
-                        Tools:           Github, Docker, Postman, ...
+                        Tools:           Github, Docker, Postman, etc
                         Contact:         vuthevy12092004@gmail.com
                                          https://www.linkedin.com/in/vuthevy1209
                         ──────────────────────────────────────────────────────────────
