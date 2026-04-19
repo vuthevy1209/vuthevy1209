@@ -2,7 +2,7 @@
                         Hi there 👋 ! 
                         My name is Vy. I am currently the final year student at
                         University of Science - VNUHCM. I am a Backend developer, 
-                        i am very interested in building a system that integrates LLMs 
+                        I am very interested in building a system that integrates LLMs 
                         to create an AI Agent application.
                         ──────────────────────────────────────────────────────────────
                         Languages:       Java · TypeScript
