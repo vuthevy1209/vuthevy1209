@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**vuthevy1209/vuthevy1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                Hi there 👋 ! 
+                                My name is Vy. I am currently the final year student at
+                                University of Science - VNUHCM. I am a Backend developer, 
+                                i am very interested in building a system that integrates LLMs 
+                                to create an AI Agent application.
+                                ──────────────────────────────────────────────────────────────
+                                Languages:       Java · TypeScript
+                                Frameworks:      Spring Framework, NestJs, ReactJs/NextJs
+                                Databases:       PostgreSQL · Redis · MongoDB · MySQL
+                                Search Engine:   Elasticsearch
+                                Tools:           Github, Docker, Postman, ...
+                                Contact:         vuthevy12092004@gmail.com
+                                                 https://www.linkedin.com/in/vuthevy1209
+                                ──────────────────────────────────────────────────────────────
+                                Thanks for visiting my profile!
+```
