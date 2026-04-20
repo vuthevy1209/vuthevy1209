@@ -1,9 +1,5 @@
 ```
-                        Hi there 👋 ! 
-                        My name is Vy. I am currently the final year student at
-                        University of Science - VNUHCM. I am a Backend developer, 
-                        I am very interested in building a system that integrates LLMs 
-                        to create an AI Agent application.
+                        Hi there 👋 ! My name is Vy.
                         ──────────────────────────────────────────────────────────────
                         Languages:       Java, TypeScript
                         Frameworks:      Spring Framework, NestJs, ReactJs/NextJs
