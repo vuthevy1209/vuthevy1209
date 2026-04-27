@@ -1,5 +1,4 @@
 ```
-      Hi there! My name is Vy.
       ──────────────────────────────────────────────────────────────
       Languages:       Java, TypeScript
       Frameworks:      Spring Framework, NestJs, ReactJs/NextJs
@@ -10,5 +9,4 @@
       Contact:         vuthevy12092004@gmail.com
                        https://www.linkedin.com/in/vuthevy1209
       ──────────────────────────────────────────────────────────────
-      Thanks for visiting my profile!
 ```
