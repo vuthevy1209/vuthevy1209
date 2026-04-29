@@ -1,5 +1,6 @@
 ```
       Languages:       Java, TypeScript
+      Fundamentals:    Computer Networks, Databases, OOP, Data Structures & Algorithms, etc.
       Frameworks:      Spring Framework, NestJs, ReactJs/NextJs
       Databases:       PostgreSQL, Redis, MongoDB, MySQL
       Search Engine:   Elasticsearch
